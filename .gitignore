@@ -1,0 +1,10 @@
+build
+node_modules
+lib
+
+.DS_Store
+.bsb.lock
+.merlin
+*.bs.js
+*.gen.js
+*.gen.tsx

@@ -1,0 +1,37 @@
+{
+  "name": "rescript-grid",
+  "version": "0.1.0",
+  "description": "ReScript CSS Grid Wrapper",
+  "main": "src/Grid.res",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w -ws _ ",
+    "clean": "bsb -clean-world",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "re:build": "bsb -make-world -clean-world",
+    "re:watch": "bsb -make-world -clean-world -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilevskaya/rescript-grid.git"
+  },
+  "author": "gilevskaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilevskaya/rescript-grid/issues"
+  },
+  "homepage": "https://github.com/gilevskaya/rescript-grid#readme",
+  "keywords": [
+    "rescript",
+    "reason-react",
+    "reasonml",
+    "grid",
+    "css-grid"
+  ],
+  "devDependencies": {
+    "bs-platform": "^8.3.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "reason-react": "^0.9.1"
+  }
+}
