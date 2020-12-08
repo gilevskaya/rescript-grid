@@ -1,6 +1,10 @@
-# ReScript CSS Grid Wrapper
+# ReScript React CSS Grid Wrapper
 
-React compound component that wraps css grid. And supports fixed columns / rows.No dependencies.
+React compound component that wraps css grid.
+Supports fixed columns / rows.
+No dependencies.
+
+API example: https://rescript-grid.vercel.app/
 
 ## Install
 

@@ -217,7 +217,7 @@ module App = {
     let (fixed, setFixed) = React.useState(_ => [Grid.Row(0, "50px")])
 
     <div className="h-screen p-10 bg-gray-100 flex flex-col">
-      <div className="text-3xl"> {"ReScript CSS Grid Wrapper"->React.string} </div>
+      <div className="text-3xl"> {"ReScript React CSS Grid Wrapper"->React.string} </div>
       <div className="text-xl mb-8 font-light text-gray-500"> {"rescript-grid"->React.string} </div>
       <div className="flex-1 flex w-full">
         <div className="w-full shadow-md bg-gray-200">

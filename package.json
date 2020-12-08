@@ -1,7 +1,7 @@
 {
   "name": "rescript-grid",
-  "version": "0.1.0",
-  "description": "ReScript CSS Grid Wrapper",
+  "version": "0.1.2",
+  "description": "ReScript React CSS Grid Wrapper",
   "main": "src/Grid.res",
   "scripts": {
     "build": "bsb -make-world",

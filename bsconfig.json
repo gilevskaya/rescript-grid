@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/rescript-lang/rescript-compiler/master/docs/docson/build-schema.json",
   "name": "rescript-grid",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "reason": {
     "react-jsx": 3
   },
